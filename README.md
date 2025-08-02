@@ -1,7 +1,7 @@
 # 🏆 UEFA Women’s Euro 2025 Final Simulation  
 ### Predicting Spain vs England Outcomes Using Poisson Regression & Monte Carlo Simulation
 
-![Dashboard Preview](Womens Euro 2025 Analysis Project\Data\🏆 UEFA Women's Euro 2025 Final Simulation_ Spain vs England Outcome Prediction via Poisson Regression & Simulation.png)
+> View the full interactive dashboard on [Tableau Public](https://public.tableau.com/views/SpainvsEnglandOutcomePrediction/UEFAWomensEuro2025FinalSimulationSpainvsEnglandOutcomePredictionviaPoissonRegressionSimulation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Project Overview
 This project simulates the potential outcome of the **UEFA Women’s Euro 2025 Final** between **Spain** and **England**, using real team statistics and statistical modeling.
