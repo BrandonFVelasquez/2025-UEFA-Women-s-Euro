@@ -60,8 +60,6 @@ Dashboard built in **Tableau**, showing:
 - Win % after 90 mins, ET, Penalties
 - Outcome breakdown by method of victory
 
-> You can view the full dashboard [here](#) *(Replace with public Tableau link if available)*
-
 ---
 
 ## 🧠 Future Work
